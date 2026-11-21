@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FilmyTicket</string>
+    <string name="website_url">https://filmyticket.com</string>
+    <string name="no_internet_title">No Internet Connection</string>
+    <string name="no_internet_msg">Please check your network settings and try again.</string>
+    <string name="btn_retry">Retry</string>
+</resources>
